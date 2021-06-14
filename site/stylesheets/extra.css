@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "TTCommons";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/TTCommons-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TTCommons";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/TTCommons-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TTCommons";
+  font-weight: 400;
+  font-style: italic;
+  src: url("../fonts/TTCommons-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "TTCommons";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/TTCommons-DemiBold.woff2") format("woff2");
+}
